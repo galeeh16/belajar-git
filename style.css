@@ -1,0 +1,8 @@
+/* Desktop Version */
+@media (min-width: 992px) {
+	.jumbotron {
+		background-image: url(img/jumbotron-bg.jpg);
+		background-size: cover;
+		height: 640px;
+	}
+}
